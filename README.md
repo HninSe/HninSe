@@ -2,10 +2,10 @@
 ## I'm trying to be a front-end developer.💛
 **2021 Goals**
 - 👩🏻‍💻 Get a job as a front-end developer.
-- 📦 Complete a front-end engineer career path on Codecademy(https://www.codecademy.com/learn/paths/front-end-engineer-career-path).
+- 📦 Complete a front-end engineer career path on Codecademy<br>(https://www.codecademy.com/learn/paths/front-end-engineer-career-path).
 - ✨ Work smart, travel more.
 
-### Connect with me:Instagram(https://www.instagram.com/hninwutye.thaung.3/)
+**Connect with me**:[Instagram](https://www.instagram.com/hninwutye.thaung.3/)
 
 <!---
 HninSe/HninSe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
