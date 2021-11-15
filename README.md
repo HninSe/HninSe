@@ -1,7 +1,7 @@
 ### Hi there, I'm HninWutyeThaung 👋.
-## I'm trying to be a front-end developer.💛
+## I'm trying to be a front-end web developer.💛
 **2021 Goals**
-- 👩🏻‍💻 Get a job as a front-end developer.
+- 👩🏻‍💻 Get a job as a front-end web developer.
 - 📦 Complete a front-end engineer career path on Codecademy<br>(https://www.codecademy.com/learn/paths/front-end-engineer-career-path).
 - ✨ Work smart, travel more.
 
